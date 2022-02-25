@@ -262,6 +262,10 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for 2m_DBoard\2m_DBoard.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for 2m_DBoard\Design Rule Check - 2m_DBoard.html
 DItemRevisionGUID=
 
@@ -564,6 +568,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=D:\projekty\maxrez\Dboard_IF_RX-7_Series\2m_DBoard\Project Outputs for 2m_DBoard\2m_DBoard.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1577|FormHeight=844|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -1741,8 +1757,8 @@ Net76=NetName=MOSI_LTC6948|NetColor=clLime
 Net77=NetName=MOSI_LTC6951|NetColor=clRed
 Net78=NetName=MOSI_RX|NetColor=clLime
 Net79=NetName=NetC10_1|NetColor=clBlack
-Net80=NetName=ref_freq_rx_n|NetColor=clLime
-Net81=NetName=ref_freq_rx_p|NetColor=clLime
+Net80=NetName=ref_freq_rx_n|NetColor=clFuchsia
+Net81=NetName=ref_freq_rx_p|NetColor=clFuchsia
 Net82=NetName=RF_Fwd|NetColor=clLime
 Net83=NetName=RF_Fwd_Vout|NetColor=clLime
 Net84=NetName=RX_IFIA_N|NetColor=clLime
