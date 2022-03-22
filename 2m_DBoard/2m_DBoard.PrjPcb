@@ -1677,19 +1677,6 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
-[NetInfos]
-Net1=NetName=_12V_TPS|NetColor=$00794DA6
-Net2=NetName=_3V3|NetColor=$0099E5FF
-Net3=NetName=_3V3_flt|NetColor=clYellow
-Net4=NetName=_6V_flt|NetColor=clRed
-Net5=NetName=_cpld_clk|NetColor=clRed
-Net6=NetName=12V_AVDD|NetColor=clFuchsia
-Net7=NetName=3V3|NetColor=$004FA86A
-Net8=NetName=5V_AVDD|NetColor=$002541CC
-Net9=NetName=6V|NetColor=$006666E0
-Net10=NetName=AGND|NetColor=clAqua
-Net11=NetName=NetC58_2|NetColor=clBlack
-
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
