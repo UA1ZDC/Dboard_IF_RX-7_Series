@@ -1,7 +1,0 @@
-Record=TopLevelDocument|FileName=ADC.SchDoc|SheetNumber={}
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=ADC_CLK.SchDoc|SheetNumber={}
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=CPLD.SchDoc|SheetNumber={}
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=DBoard_Conn.SchDoc|SheetNumber={}
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=IF_RX.SchDoc|SheetNumber={}
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Power.SchDoc|SheetNumber={}
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=RX.SchDoc|SheetNumber={}
