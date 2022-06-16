@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=M1 Old Footprint=Mechanical_Via_2.1x3.6 New Footprint=Mechanical_Via_2.6x4.2
+Change Component Footprint: Designator=M2 Old Footprint=Mechanical_Via_2.1x3.6 New Footprint=Mechanical_Via_2.6x4.2
+Change Component Footprint: Designator=M3 Old Footprint=Mechanical_Via_2.1x3.6 New Footprint=Mechanical_Via_2.6x4.2
+Change Component Footprint: Designator=M4 Old Footprint=Mechanical_Via_2.1x3.6 New Footprint=Mechanical_Via_2.6x4.2
+Change Component Footprint: Designator=M5 Old Footprint=Mechanical_Via_2.1x3.6 New Footprint=Mechanical_Via_2.6x4.2
+Change Component Footprint: Designator=M6 Old Footprint=Mechanical_Via_2.1x3.6 New Footprint=Mechanical_Via_2.6x4.2
+Change Component Footprint: Designator=M7 Old Footprint=Mechanical_Via_2.1x3.6 New Footprint=Mechanical_Via_2.6x4.2
+Change Component Footprint: Designator=M8 Old Footprint=Mechanical_Via_2.1x3.6 New Footprint=Mechanical_Via_2.6x4.2
+Added Room: Name=CPLD
+Added Room: Name=IF_RX
+Added Room: Name=Power
+Added Room: Name=RX
