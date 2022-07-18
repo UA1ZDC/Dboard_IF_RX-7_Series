@@ -1,0 +1,18 @@
+board oultline: 2m_DBoard.GM2
+
+top paste:      2m_DBoard.GTP
+top silk:       2m_DBoard.GTO
+top mask:       2m_DBoard.GTS
+
+top layer:      2m_DBoard.GTL
+in1 layer:      2m_DBoard.GP1
+in2 layer:      2m_DBoard.GP2
+in3 layer:      2m_DBoard.GP3
+in4 layer:      2m_DBoard.GP4
+in5 layer:      2m_DBoard.G1
+in6 layer:      2m_DBoard.GP5
+bot layer:      2m_DBoard.GBL
+
+bop mask:       2m_DBoard.GBS
+bop silk:       2m_DBoard.GBO
+bop paste:      2m_DBoard.GBP
