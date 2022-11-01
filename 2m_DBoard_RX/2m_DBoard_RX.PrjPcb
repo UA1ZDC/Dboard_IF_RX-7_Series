@@ -126,23 +126,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XQHAMSJK
 
 [Document6]
-DocumentPath=2m_DBoard.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HGUYYECF
-
-[Document7]
 DocumentPath=..\documents\ТЗ.docx
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=Libraries\DBLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HIQMYWYD
 
-[Document9]
+[Document8]
 DocumentPath=Libraries\DBLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTVSJGXK
 
-[Document10]
+[Document9]
 DocumentPath=Libraries\Kintex_SDR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVYCEPLH
 
-[Document11]
+[Document10]
 DocumentPath=Libraries\Kintex_SDR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=Resources\HSEC8-160-01-X-RA-BL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNFSRKCW
 
-[Document13]
+[Document12]
 DocumentPath=Resources\HSEC8-160-01-X-RA-BL.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=2m_Dboard_Job.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,26 +260,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for 2m_DBoard\2m_DBoard.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for 2m_DBoard\2m_DBoard.REP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for 2m_DBoard\2m_DBoard.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for 2m_DBoard\2m_DBoard.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for 2m_DBoard\Design Rule Check - 2m_DBoard.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
