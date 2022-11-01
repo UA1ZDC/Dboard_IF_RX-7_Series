@@ -1,0 +1,107 @@
+﻿Field=#~Integer~#~50|Field=P/N~String~P/N~135|Field=Manufacturer~String~Manufacturer~182|Field=Name~String~Name~190|Field=LibRef~String~LibRef~145|Field=Description~String~Description~438|Field=Footprint~String~Footprint~151|Field=Designator~String~Designator~1169|Field=Value~String~Value~52|Field=Voltage~String~Voltage~119|Field=Quantity~Integer~Quantity~67|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Daughter_Board.PrjPcb|ReportField=ProjectFullPath~D:\Altium_Projects\Daughter_Board\Daughter_Board.PrjPcb|ReportField=Title~Bill of Materials For Project [Daughter_Board.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~410|ReportField=ReportTime~19:22:02|ReportField=ReportDate~14.03.2019|ReportField=ReportDateTime~14.03.2019 19:22:02|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=CurrentDate~14.03.2019|ReportField=CurrentTime~19:18:53|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Altium_Projects\Daughter_Board\Digital.SchDoc|ReportField=DocumentName~Digital.SchDoc|ReportField=DocumentNumber~ПЛАС.ХХХХХХ.ХХХ ХХ|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~17.01.2019|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=False:CenterVertical=False:PrintScale=0.95:XCorrection=0.00:YCorrection=0.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=1:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=15:PrintQuality=600:MediaType=1:DitherType=10:PaperKind=A4:PrintScaleMode=1|ReportField=ProjectName~Daughter_Board.PrjPcb|ReportField=Revision~|ReportField=Rule~Undefined|ReportField=SheetNumber~{}|ReportField=SheetTotal~{}|ReportField=Time~|ReportField=Title~{Наименование}|ReportField=DocumentType~{Документ}|ReportField=DocumentType1str~|ReportField=DocumentType2str~|ReportField=EngineerName~|ReportField=Letter1Column~{}|ReportField=Letter2Column~{}|ReportField=Letter3Column~{}|ReportField=Mass~{М.}|ReportField=NormInspection~{Н.контр.}|ReportField=ProcessInspection~{Т.контр.}|ReportField=Scale~{Мш.}|ReportField=Title1str~|ReportField=Title2str~|ReportField=DataSourceFileName~Daughter_Board.PrjPcb|ReportField=DataSourceFullPath~D:\Altium_Projects\Daughter_Board\Daughter_Board.PrjPcb
+1||||Test  Point||Control Point|K3, K4|||2
+2|GRM1555C1H100FA01D|Murata||CAP|SMD Capacitor|C0402|C14, C16, C36, C41, C47, C49, C58, C98|10pF|50V|8
+3|GRM1555C1H101FA01D|Murata||CAP|SMD Capacitor|C0402|C4, C17, C18, C59, C64, C75, C83, C85, C103, C105|100pF|50V|10
+4|GRM1555C1H102JA01D|Murata||CAP|SMD Capacitor|C0402|C3, C24, C25, C29, C32, C35, C38, C44, C95, C96, C101, C102, C125, C127, C131|1000pF|50V|15
+5|GRM1555C1H120FA01D|Murata||CAP|SMD Capacitor|C0402|C51, C54, C60, C65|12pF|50V|4
+6|GRM1555C1H1R5WA01D|Murata||CAP|SMD Capacitor|C0402|C12, C209, C210, C211, C212|1.5pF|50V|5
+7|GRM1555C1H220FA01D|Murata||CAP|SMD Capacitor|C0402|C37, C42, C48, C50, C53, C56, C62, C67, C76, C80, C86, C90|22pF|50V|12
+8|GRM1555C1H390FA01D|Murata||CAP|SMD Capacitor|C0402|C52, C55, C61, C66|39pF|50V|4
+9|GRM1555C1H3R0CA01D|Murata||CAP|SMD Capacitor|C0402|C77, C81, C87, C91|3pF|50V|4
+10|GRM1555C1H3R6CA01D|Murata||CAP|SMD Capacitor|C0402|C78, C88|3.6pF|50V|2
+11|GRM1555C1H680FA01D|Murata||CAP|SMD Capacitor|C0402|C22, C94|68pF|50V|2
+12|GRM1555C1H6R0DA01D|Murata||CAP|SMD Capacitor|C0402|C79, C89|6pF|50V|2
+13|GRM1555C1HR10WA01D|Murata||CAP|SMD Capacitor|C0402|C33|0.1pF|50V|1
+14|GRM1555C1HR20WA01D|Murata||CAP|SMD Capacitor|C0402|C34|0.2pF|50V|1
+15|GRM1555C1HR30WA01D|Murata||CAP|SMD Capacitor|C0402|C27, C39, C40, C99|0.3pF|50V|4
+16|GRM155R61C104KA88D|Murata||CAP|SMD Capacitor|C0402|C182, C196|0.1uF|16V|2
+17|GRM155R71A104KA01J|Murata||CAP|SMD Capacitor|C0402|C5, C7, C9, C71, C73, C82, C84, C113, C115, C143, C144, C145, C146, C147, C148, C159, C160, C161, C162, C163, C164, C198|0.1uF|10V|22
+18|GRM155R71E103KA01D|Murata||CAP|SMD Capacitor|C0402|C10, C13, C19, C28, C46, C57, C97, C100, C117, C118, C123, C124, C130, C132, C133, C135, C136, C138, C139, C140, C149, C151, C152, C154, C155, C156, C165, C166, C167, C168, C169, C170, C171, C172, C173, C174, C175, C176, C177|10nF|25V|39
+19|GRM155R71H103JA88D|Murata||CAP|SMD Capacitor|C0402|C1, C15|10nF|50V|2
+20|GRM1885C1H122GA01D|Murata||CAP|SMD Capacitor|C0603|C21, C93|1200pF|50V|2
+21|GRM1885C1H222FA01D|Murata||CAP|SMD Capacitor|C0603|C31, C70, C108, C112|2200pF|50V|4
+22|GRM1885C1H222JA01D|Murata||CAP|SMD Capacitor|C0603|C191|2.2nF|50V|1
+23|GRM188R61C475KAAJD|Murata||CAP|SMD Capacitor|C0603|C128, C129, C184, C205|4.7uF|16V|4
+24|GRM188R61E225KA12D|Murata||CAP|SMD Capacitor|C0603|C206|2.2uF|25V|1
+25|GRM188R71A225KE15J|Murata||CAP|SMD Capacitor|C0603|C8, C11, C26, C68, C106, C110|2.2uF|10V|6
+26|GRM188R71H221KA01D|Murata||CAP|SMD Capacitor|C0603|C197|220pF|50V|1
+27|GRM21BR61C106KE15K|Murata||CAP uF|SMD Capacitor|C0805|C185, C208|10uF|16V|2
+28|GRM21BR61C226ME44L|Murata||CAP uF|SMD Capacitor|C0805|C183, C186|22uF|16V|2
+29|GRM21BR61H475KE51L|Murata||CAP|SMD Capacitor|C0805|C45|4.7uF|50V|1
+30|GRM21BR70J106KA73L|Murata||CAP|SMD Capacitor|C0805|C6|10uF|6.3V|1
+31|GRM21BR71A105KA01K|Murata||CAP|SMD Capacitor|C0805|C20, C23, C43, C63, C72, C74, C92, C104, C109, C114, C116, C134, C137, C141, C142, C150, C153, C157, C158, C178, C179, C180, C181, C187, C188, C189, C190, C192, C193, C194, C195, C200, C201, C202, C203, C204, C207|1uF|10V|37
+32|GRM3195C1H273JA01D|Murata||CAP|SMD Capacitor|C1206|C30, C69, C107, C111|27nF|50V|4
+33|GRM31C5C1H104JA01K|Murata||CAP|SMD Capacitor|C1206|C119, C120, C121, C122, C126|0.1uF|50V|5
+34|GRM31C5C1H104JA01K|Murata||CAP|SMD Capacitor|C1206|C2|0.1µF|50V|1
+35|GRM32ER71A476KE15L|Murata||CAP uF|SMD Capacitor|C1210|C199|47uF|10V|1
+36|714390164|Molex|1.00mm Pitch Mezzanine 714390164|DBoard|USRP DBoard|DBoard|X1|||1
+37|||2N7002|2N7002|N-Channel MOSFET 2N7002|SOT-23|T7, T8, T9||60V|3
+38||Microchip|24LC024|24LC024|I2C EEPROM|SOIC_SN8|D30, D31||2.5-5.5V|2
+39|0603HP-5N1XJL|Coilcraft|0603HP-5N1X_E_|Inductor RF|Chip SMD Inductor|L0603_HP|L3, L4, L5|5.1nH||3
+40|0603HP-18NXJE|Coilcraft|0603HP-18NXJE|Inductor RF|Chip SMD Inductor|L0603_HP|L6|18nH||1
+41|0603HP-33NXGE|Coilcraft|0603HP-33NXGE|Inductor RF|Chip SMD Inductor|L0603_HP|L23, L24, L25, L26, L27, L28, L29, L30|33nH||8
+42|0603HP-43NXJE|Coilcraft|0603HP-43NXJE|Inductor RF|Chip SMD Inductor|L0603_HP|L8, L31|43nH||2
+43|0603HP-68NXGE|Coilcraft|0603HP-68NXGE|Inductor RF|Chip SMD Inductor|L0603_HP|L9, L10, L11, L14|68nH||4
+44|0603HP-68NXJE|Coilcraft|0603HP-68NXJE|Inductor RF|Chip SMD Inductor|L0603_HP|L17, L18, L32, L33|68nH||4
+45|0603HP-R12XGE|Coilcraft|0603HP-R12XGE|Inductor RF|Chip SMD Inductor|L0603_HP|L12, L13, L15, L16, L19, L20, L21, L22|120nH||8
+46|0805HP-6N2XJR|Coilcraft|0805HP-6N2XJR|Inductor RF|Chip SMD Inductor|L0805_HP|L34, L40, L41, L43|6.2nH||4
+47|1008LS-153XJE|Coilcraft|1008LS-153XJE|Inductor|Chip SMD Inductor|L1008_LS|L2|15uH||1
+48|ADL5375-05SCPZEPR7|Analog Devices|ADL5375-05|ADL5375|Broadband Quadrature Modulator|LFCSP-24|D20||4.75 V to 5.25 V|1
+49|ADL5610ARKZ-R7|Analog Devices|ADL5610|ADL5610|RF/IF Gain Block|ADL5610|D13, D22|||2
+50|APHCM2012CGCK-F01|Kingbright|APHCM2012|LED|CHIP LED LAMP|LED|H1, H2|||2
+51|APHCM2012SECK-F01|Kingbright|APHCM2012|LED|CHIP LED LAMP|LED|H3|||1
+52|BFCV-4085+|Mini-Circuits|BFCV-4085+|BFCV-4085+|Bandpass Filter|JV1210C|Z6, Z12|||2
+53|ERJ-2GE0R00X||Chip SMD Resistor|RES|SMD Resistor|R0603|R56, R58, R60, R62, R66, R69, R79|none||7
+54|ERJ-2GE0R00X||Chip SMD Resistor|RES|SMD Resistor|R0603|R57, R59, R61, R63, R67, R70|0||6
+55|ERJ-2GEJ102X||Chip SMD Resistor|RES|SMD Resistor|R0402|R5, R7, R51|1k||3
+56|ERJ-2GEJ680X||Chip SMD Resistor|RES|SMD Resistor|R0402|R65, R68, R71|68||3
+57|ERJ-2RHD1501X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R6, R77|1.5k||2
+58|ERJ-2RHD1960X-ND|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R18, R22, R25, R30|196||4
+59|ERJ-2RKD24R9X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R19, R20, R26, R27|24.9||4
+60|ERJ-2RKD49R9X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R1, R2, R8, R14, R16, R23, R31, R32, R33, R35, R36, R38, R42, R44|49.9||14
+61|ERJ-2RKD68R1X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R17, R21, R24, R29|68.1||4
+62|ERJ-2RKF1003X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R3|100k||1
+63|ERJ-2RKF11R8X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R9, R39, R48|11.8||3
+64|ERJ-2RKF1400X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R34, R37|140||2
+65|ERJ-2RKF1800X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R4, R64|180||2
+66|ERJ-2RKF4022X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R15|40.2k||1
+67|ERJ-2RKF4320X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R11, R12, R40, R41, R49, R50|432||6
+68|ERJ-2RKF4993X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R80|499k||1
+69|ERJ-2RKF6813X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R74|681k||1
+70|ERJ-2RKF7152X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R73|71.5k||1
+71|ERJ-2RKF7323X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R72|732k||1
+72|ERJ-2RKF8062X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R76|732k||1
+73|ERJ-2RKF8873X|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R78|887k||1
+74|ERJ-3EKF15R0V||Chip SMD Resistor|RES|SMD Resistor|R0603|R52, R53, R54, R55|15||4
+75|ERJ-3EKF2372V|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0603|R75|23.7k||1
+76|ERJ-6ENF18R7V|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0805|R46, R47|18.7||2
+77|ERJ-PB3D3320V|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0603|R10, R28, R43, R45|332||4
+78|none|Panasonic Electronic Components|Chip SMD Resistor|RES|SMD Resistor|R0402|R13|none||1
+79|GRM1555C1H3R0WA01D||Distributed high pass filter|HPF_750MHz|High Pass Filter|HPF_750_305um|Z5|||1
+80|G3VM-61GR1|Omron|G3VM-61GR1|G3VM-61GR1|MOS FET Relay|G3VM-61|K1, K2||60V|2
+81|HMC311LP3E|Analog Devices|HMC311LP3|HMC311LP3|InGaP HBT GAIN BLOCK|QFN-16 v2|D26, D28|||2
+82|HMC637BPM5E|Analog Devices|HMC637BPM5E|HMC637BPM5E|1 W Power Amplifier|LFCSP-32|D29||12 V at 345 mA typical|1
+83|LDPG-212-322+|Mini-Circuits|LDPG-212-322+|LDPG-212-322+|Diplexer|GE0805C-10|Z2, Z9|||2
+84|LDPW-162-242+|Mini-Circuits|LDPW-162-242+|LDPW-162-242+|Diplexer|JC0603C|Z1, Z8|||2
+85|LFCG-92+|Mini-Circuits|LFCG-92+|LFCG-92+|Low Pass Filter|GE0805C-2|Z4, Z7, Z10, Z11|||4
+86|LM27761DSGT|Texas Instruments|LM27761|LM27761|Low-Noise, Regulated, Switched-Capacitor Voltage Inverter|WSON-8|D41||2.7 V to 5.5|1
+87|LP5912-3.3DRVT|Texas Instruments|LP5912-3.3DRVT|LP5912|LP5912 500-mA Low-Noise, Low-IQ LDO|WSON-6|D35, D36||3.3V|2
+88|LP5912-5.0DRVT|Texas Instruments|LP5912-5.0DRVT|LP5912|LP5912 500-mA Low-Noise, Low-IQ LDO|WSON-6|D32, D33, D37, D38, D39, D40, D42||5.0V|7
+89|LQG15HS18NJ02D|Murata|LQG15H|Inductor RF|Chip SMD Inductor|L0402|L7|18nH||1
+90|LTC5594IUH#PBF|Analog Devices|LTC5594|LTC5594|Quadrature Demodulator|QFN-32|D14|||1
+91|LTC6946IUFD-4#PBF|Linear Technology|LTC6946-4|LTC6946|The LTC®6946 is a high performance, low noise, 6.39GHz  phase-locked loop (PLL)|QFN-28|D12, D15, D23, D24||3.15 V ~ 5.25 V|4
+92|39-28-1023|Molex|Mini-Fit Jr. Vertical Header|Mini-Fit Jr. Vertical Header|4.20mm Pitch, Dual Row, 2 Circuits, without Snap-in Plastic Peg PCB Lock|Mini-Fit Jr. Vertical Header|XC1|||1
+93|105309-1202|Molex|Nano-Fit Vertical Header|Nano-Fit Power Connector|Through Hole, 2.50mm Pitch, Single Row, 2 Circuits|Nano-Fit Vertical Header|XC2|||1
+94|PE42553A-Z|Peregrine Technical Solutions|PE42553|PE42553|HaRPTM technology-enhanced absorptive SPDT|QFN-16|D1, D3, D4, D10, D16, D17, D19|||7
+95|PE42562A-X|Peregrine Technical Solutions|PE42562|PE42562|The PE42582 is a HaRP™ technology-enhanced absorptive SP6T RF switch|QFN-24|D5, D21, D25|||3
+96|PE43711A-Z|Peregrine Technical Solutions|PE43711|PE43711|The PE43711 is a 50Ω, HaRP™ technology-enhanced, 7-bit RF digital step attenuator|QFN-24|D6, D9, D27|||3
+97|PHA-13LN+|Mini-Circuits|PHA-13LN+|PHA-13LN+|Monolithic Amplifier|SOT89|D7||3 to 5 V|1
+98|PMA3-83LN+|Mini-Circuits|PMA3-83LN+|PMA3-83LN+|Low Noise Amplifier|DQ1225|D8, D11|||2
+99|SIM-43MH+|Mini-Circuits|SIM-43MH+|SIM-43MH+|Frequency Mixer|SIM-43MH+|D2, D18|||2
+100|0732511352|Molex|SMA Jack|RF Connector|50 Ohms, SMA Jack, Vertica|MOLEX SD-73251-135 (Gold)|XW1, XW2, XW3|||3
+101|TC2-1TX+|Mini-Circuits|TC2-1TX+|TC2-1TX+|RF Transformer|AT1521|T2, T3, T5, T6|||4
+102|TCM2-452X-2+|Mini-Circuits|TCM2-452X-2+|TCM2-452X-2+|RF Transformer|DB1627|T1, T4|||2
+103|TPS611781RNW|Texas Instruments|TPS611781|TPS611781|10-A Fully-Integrated Synchronous Boost with Load Disconnect Control|TPS611781x|D34||4.5 V to 20 V|1
+104||Coilcraft|XEL4020-222MEB|Inductor PWR|Magnetic-Core Inductor|XAL4020|L38, L39|2.2uH||2
+105||Coilcraft|XEL4030-472MEB|Inductor PWR|Magnetic-Core Inductor|XAL4030|L37|4.7uH||1
+106|XFL3012-682ME|Coilcraft|XFL3012-682ME|Inductor|Chip SMD Inductor|XFL3012|L1, L35, L36, L42|6.8uH||4

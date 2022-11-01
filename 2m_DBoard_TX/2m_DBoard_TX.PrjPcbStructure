@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=CPLD.SchDoc|SheetNumber={}
+Record=NoMainPathDocument|SourceDocument=CPLD.SchDoc|FileName=DBoard_conn.SchDoc|SheetNumber={}
+Record=NoMainPathDocument|SourceDocument=CPLD.SchDoc|FileName=Digital.SchDoc|SheetNumber={}
+Record=NoMainPathDocument|SourceDocument=CPLD.SchDoc|FileName=IF_TX.SchDoc|SheetNumber={}
+Record=NoMainPathDocument|SourceDocument=CPLD.SchDoc|FileName=Power.SchDoc|SheetNumber={}
+Record=NoMainPathDocument|SourceDocument=CPLD.SchDoc|FileName=REFCLK.SchDoc|SheetNumber={}
+Record=NoMainPathDocument|SourceDocument=CPLD.SchDoc|FileName=TX.SchDoc|SheetNumber={}
