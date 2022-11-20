@@ -225,7 +225,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DVYCEPLH
 
 [Document12]
 DocumentPath=Libraries\Kintex_SDR.SchLib
@@ -1989,13 +1989,11 @@ ComponentUpdate37=1
 ComponentIsDeviceSheet37=0
 
 [NetInfos]
-Net1=NetName=HFreq_TX|NetColor=$00E8864A
-Net2=NetName=HFreq_UpMxd_TX|NetColor=clFuchsia
-Net3=NetName=IFreq_LBand_TX|NetColor=clYellow
-Net4=NetName=LFreq_DownMxd_TX|NetColor=clFuchsia
-Net5=NetName=LO1_TX|NetColor=$000000CC
-Net6=NetName=RFreq_LBand_TX|NetColor=clLime
-Net7=NetName=RFreq_MBand_TX|NetColor=$000099FF
+Net1=NetName=HFreq_TX|NetColor=clYellow
+Net2=NetName=IFreq_LBand_TX|NetColor=clRed
+Net3=NetName=IFreq_MBand_TX|NetColor=$000099FF
+Net4=NetName=RFreq_LBand_TX|NetColor=clAqua
+Net5=NetName=RFreq_MBand_TX|NetColor=clLime
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
