@@ -23,17 +23,17 @@ Number;Name;Type;Manufacturer;Material;Process;Thickness (mm);Weight (oz);Dk;Df;
 
 Impedances
 #;Target impedance (Ω);Type;Trace layer;Calculated impedance (Ω);Trace width (mm);Gap (mm);Reference layers;Stack
-1;50;Single;Top RF;46.9106;0.2;;AGND;Board Layer Stack
+1;50;Single;Top RF;50.0578;0.17;;AGND;Board Layer Stack
 
-2;50;Single;Signal 1;49.5672;0.12;;GND 2;GND 1;Board Layer Stack
+2;50;Single;Signal 1;49.5402;0.12;;GND 2;GND 1;Board Layer Stack
 
-3;50;Single;Bottom Layer;46.9106;0.2;;GND 1;Board Layer Stack
+3;50;Single;Bottom Layer;50.0578;0.17;;GND 1;Board Layer Stack
 
-4;100;Diff pair;Top RF;90.1216;0.14;0.12;AGND;Board Layer Stack
+4;100;Diff pair;Top RF;100.4201;0.115;0.145;AGND;Board Layer Stack
 
-5;100;Diff pair;Signal 1;98.6792;0.1;0.22;GND 2;GND 1;Board Layer Stack
+5;100;Diff pair;Signal 1;100.2492;0.1;0.3;GND 2;GND 1;Board Layer Stack
 
-6;100;Diff pair;Bottom Layer;90.1216;0.14;0.12;GND 1;Board Layer Stack
+6;100;Diff pair;Bottom Layer;100.4201;0.115;0.145;GND 1;Board Layer Stack
 
 
 Via types
