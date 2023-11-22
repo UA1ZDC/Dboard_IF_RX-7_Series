@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\projekty\maxrez\Dboard_IF_RX-7_Series\2m_DBoard\2m_DBoard.PcbDoc
+DRC Rules Export File for PCB: D:\projekty\maxrez\Dboard_IF_RX-7_Series\2m_DBoard_RX\2m_DBoard_RX.PcbDoc
 RuleKind=Clearance|RuleName=Bottom_diff_pair_100Ohm|Scope=Board|Minimum=7.87
 RuleKind=Clearance|RuleName=Top_RF_50Ohm|Scope=Board|Minimum=5.91
 RuleKind=Clearance|RuleName=Signal1_50Ohm|Scope=Board|Minimum=5.91
