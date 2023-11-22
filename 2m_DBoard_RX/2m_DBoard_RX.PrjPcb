@@ -143,6 +143,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XQHAMSJK
 
 [Document7]
+DocumentPath=..\documents\ТЗ.docx
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
 DocumentPath=Libraries\DBLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HIQMYWYD
 
-[Document8]
+[Document9]
 DocumentPath=Libraries\DBLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTVSJGXK
 
-[Document9]
+[Document10]
 DocumentPath=Libraries\Kintex_SDR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVYCEPLH
 
-[Document10]
+[Document11]
 DocumentPath=Libraries\Kintex_SDR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=Resources\HSEC8-160-01-X-RA-BL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNFSRKCW
 
-[Document12]
+[Document13]
 DocumentPath=Resources\HSEC8-160-01-X-RA-BL.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=2m_Dboard_Job.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1700,6 +1717,10 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=_AVDD_RX_Injctd|NetColor=$000099FF
+Net2=NetName=12V_AVDD|NetColor=clRed
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
