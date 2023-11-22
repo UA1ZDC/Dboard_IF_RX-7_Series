@@ -143,23 +143,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XQHAMSJK
 
 [Document7]
-DocumentPath=..\documents\ТЗ.docx
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
 DocumentPath=Libraries\DBLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HIQMYWYD
 
-[Document9]
+[Document8]
 DocumentPath=Libraries\DBLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTVSJGXK
 
-[Document10]
+[Document9]
 DocumentPath=Libraries\Kintex_SDR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVYCEPLH
 
-[Document11]
+[Document10]
 DocumentPath=Libraries\Kintex_SDR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=Resources\HSEC8-160-01-X-RA-BL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNFSRKCW
 
-[Document13]
+[Document12]
 DocumentPath=Resources\HSEC8-160-01-X-RA-BL.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=2m_Dboard_Job.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +380,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=iR-ADV C3520
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1447,33 +1430,33 @@ RemoveModels=1
 UpdateCurrentModels=1
 ParameterName0=Capacity
 ParameterUpdate0=1
-ParameterName1=Code_JEDEC
+ParameterName1=Channel Resistance
 ParameterUpdate1=1
-ParameterName2=Color
+ParameterName2=Code_JEDEC
 ParameterUpdate2=1
-ParameterName3=Comment
+ParameterName3=Color
 ParameterUpdate3=1
-ParameterName4=Component Kind
+ParameterName4=Comment
 ParameterUpdate4=1
-ParameterName5=Coupling
+ParameterName5=Component Kind
 ParameterUpdate5=1
-ParameterName6=Current
+ParameterName6=Coupling
 ParameterUpdate6=1
-ParameterName7=DatasheetVersion
+ParameterName7=Current
 ParameterUpdate7=1
-ParameterName8=DCR
+ParameterName8=DatasheetVersion
 ParameterUpdate8=1
-ParameterName9=Description
+ParameterName9=DCR
 ParameterUpdate9=1
-ParameterName10=Fast throughput rate
+ParameterName10=Description
 ParameterUpdate10=1
-ParameterName11=Frequency
+ParameterName11=Fast throughput rate
 ParameterUpdate11=1
-ParameterName12=Frequency Range
+ParameterName12=Frequency
 ParameterUpdate12=1
-ParameterName13=High speed serial interface
+ParameterName13=Frequency Range
 ParameterUpdate13=1
-ParameterName14=Channel Resistance
+ParameterName14=High speed serial interface
 ParameterUpdate14=1
 ParameterName15=Impedance
 ParameterUpdate15=1
