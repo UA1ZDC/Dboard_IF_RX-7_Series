@@ -1,0 +1,20 @@
+board oultline: 2m_DBoard_RX.GM3
+
+top paste:      2m_DBoard_RX.GTP    Top Paste Paste Gerber Data
+top silk:       2m_DBoard_RX.GTO    Top Overlay Gerber Data
+top mask:       2m_DBoard_RX.GTS    Top Paste Mask Gerber Data
+
+top layer:      2m_DBoard_RX.GTL    Top Layer Gerber Data
+in1 layer:      2m_DBoard_RX.GP1    Internal Plane Layer 1 Gerber Data
+in2 layer:      2m_DBoard_RX.GP2    Internal Plane Layer 2 Gerber Data
+in3 layer:      2m_DBoard_RX.GP3    Internal Plane Layer 3 Gerber Data
+in4 layer:      2m_DBoard_RX.GP4    Internal Plane Layer 4 Gerber Data
+in5 layer:      2m_DBoard_RX.G1     Mid Layer 1 Gerber Data
+in6 layer:      2m_DBoard_RX.GP5    Internal Plane Layer 5 Gerber Data
+bot layer:      2m_DBoard_RX.GBL    Bottom Layer Gerber Data
+
+bot mask:       2m_DBoard_RX.GBS    Bottom Paste Mask Gerber Data
+bot silk:       2m_DBoard_RX.GBO    Bottom Overlay Gerber Data
+bot paste:      2m_DBoard_RX.GBP    Bottom Paste Paste Gerber Data
+
+dimension:      2m_DBoard_RX.GM4

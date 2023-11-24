@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: 2m_DBoard_RX.GBR   22. 11. 2023  12:27:02
+Gerber File Extension Report For: 2m_DBoard_RX.GBR   24. 11. 2023  13:38:08
 ------------------------------------------------------------------------------------------
 
 
@@ -20,5 +20,6 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GM2                Board Shape                             
+.GM3                Board Shape                             
+.GM4                Dimensions                              
 ------------------------------------------------------------------------------------------
